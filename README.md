@@ -1,6 +1,6 @@
 # Awesome ChatGPT 
 
-### Prompts
+### Prompts
 https://github.com/f/awesome-chatgpt-prompts
 
 ### API tools
@@ -28,8 +28,12 @@ https://github.com/f/awesome-chatgpt-prompts
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 
+### Official Links
+
+
 #### ChatGPT Community / Discussion
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
+
 
 #### Chat-GPT Official Docs
 
