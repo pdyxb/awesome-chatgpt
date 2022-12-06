@@ -1,7 +1,7 @@
 # Awesome ChatGPT 
 
 ### Prompts
-https://github.com/f/awesome-chatgpt-prompts
+[Chat Prompts](https://github.com/f/awesome-chatgpt-prompts)
 
 ### API tools
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
