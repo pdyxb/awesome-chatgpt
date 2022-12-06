@@ -1,6 +1,7 @@
 # Awesome ChatGPT 
 
-> Curated list of resources for [ChatGPT](https://chat.openai.com) and GPT-3 from OpenAI
+### Prompts
+https://github.com/f/awesome-chatgpt-prompts
 
 ### API tools
 - [Unoffical API in Python](https://github.com/acheong08/ChatGPT)
@@ -31,6 +32,8 @@
 - [OpenAI Discord Channel](https://discord.com/invite/openai)
 
 #### Chat-GPT Official Docs
+
+> Curated list of resources for [ChatGPT](https://chat.openai.com) and GPT-3 from OpenAI
 
 - [ChatGPT Official App](https://chat.openai.com)
 - [OpenAI API Documentation](https://beta.openai.com/docs)
